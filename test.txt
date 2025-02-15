@@ -2,3 +2,5 @@ testowy plik
 lab5
 Diana
 123
+Nowa linia w test.txt
+

@@ -1,1 +1,2 @@
 GitHub lab5
+Nova linia w lab.txt
